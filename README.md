@@ -1,6 +1,8 @@
-# KingOS
-KingsOS, Experience the OS made for the world by KingsEmpire
-KingsOS is a linux-built-on OS which is UN-bloated and has the beast features
-of UBUNTU without having any content from ubuntu. Basically we made a os with the same
-things UBUNTU has but with almost a little bit to no bloat. All things made are not
-from ubuntu and are made by KingsEmpire
+#Kings OS
+Kings OS, Experience the Operating system made for just YOU!
+It is a special compiled iso from #ubuntu huge thanks to that
+and was created with cubic and compiled with compilemyiso - https://play.kingsempire.eu
+We hope you like this iso and we will be waiting for you to download it
+
+-KingsEmpire Developers
+#/KingsOS
